@@ -14,3 +14,6 @@ para mostrar e testar
 remover linha
 
 feito! removido o último commit
+
+####
+para mandar pro repositótio remoto
