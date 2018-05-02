@@ -12,3 +12,5 @@ para teste do git diff
 para mostrar e testar
 
 remover linha
+
+feito! removido o último commit
