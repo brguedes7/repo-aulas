@@ -9,4 +9,6 @@ novas alterações...
 4
 
 para teste do git diff
-para mostrar e stestar
+para mostrar e testar
+
+remover linha
