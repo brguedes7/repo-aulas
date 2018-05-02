@@ -7,3 +7,6 @@ Testando edição
 novas alterações...
 3
 4
+
+para teste do git diff
+para mostrar e stestar
